@@ -2,6 +2,14 @@
 
 Examples for [dbtunnel](https://github.com/stikkireddy/dbtunnel) project. Examples of various 
 frameworks for running web ui's in databricks notebooks.
+
+## Instructions
+
+1. Go to a databricks workspace
+2. Use a no isolation databricks cluster (non uc)
+3. Clone this repo into databricks repos
+4. Go to any of the examples and run the notebooks (not the python files)
+
 ### Framework Support
 
 * [x] fastapi: [fastapi.py](fastapi%2Ffastapi.py)
