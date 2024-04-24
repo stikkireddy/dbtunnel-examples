@@ -1,5 +1,6 @@
 # Databricks notebook source
 # MAGIC %pip install dbtunnel[asgiproxy,chainlit,ngrok]
+# MAGIC %pip install chainlit==1.0.400
 
 # COMMAND ----------
 
